@@ -46,5 +46,8 @@ What's New?
 **[May 2018]**
 * I start my six-month internship as a software engineer at Paypal Singapore Development Centre.
 
+**[Apr 2018]**
+* Our VR detective game prototype ["ByStanders"](https://qq315035253.wixsite.com/bystanders) is demonstrated in the [12th SoC Term Project Showcase (STePS)](https://isteps.comp.nus.edu.sg/event/12th-steps).
+
 **[Aug 2016]**
 * I join National Univeristy of Singapore for my Bachelor's degree in Computer Science.
