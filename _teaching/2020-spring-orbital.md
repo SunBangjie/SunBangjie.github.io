@@ -1,5 +1,5 @@
 ---
-title: "Project advisor for Orbital"
+title: "[May 20 - Aug 20] Project Advisor for Orbital"
 collection: teaching
 type: "Software project"
 permalink: /teaching/2020-spring-orbital
