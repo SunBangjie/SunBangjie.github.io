@@ -23,6 +23,9 @@ My research interests are in the intersection of **computer vision** and **sensi
 
 What's New?
 ======
+**[Nov 2021]**
+* Our paper is featured on several news/media including: [Forbes](https://www.forbes.com/sites/leemathews/2021/11/19/your-smartphone-may-soon-be-able-to-detect-hidden-spy-cameras/?sh=3e929f8470cf), [The Register](https://www.theregister.com/2021/11/18/smartphone_camera_detection/), [Y Combinator's Hacker News](https://news.ycombinator.com/item?id=29267168), [Techlog360](https://techlog360.com/detect-hidden-spy-cameras-using-smartphone/), [NewScientist](https://www.newscientist.com/article/2299052-smartphone-app-can-detect-hidden-camera-lenses-from-reflections/), [SPIEGEL](https://www.spiegel.de/netzwelt/netzpolitik/laser-assisted-photography-detection-lapd-smartphone-app-spuert-versteckte-spionagekameras-auf-a-8318b023-0fad-40a8-a210-1c041a14d0a1), [TechRadar](https://www.techradar.com/news/your-smartphone-could-help-track-spy-cameras), [Bitdefender](https://www.bitdefender.com/blog/hotforsecurity/boffins-say-they-can-spot-a-hidden-spy-cam-with-just-a-smartphone/) and others.
+
 **[Oct 2021]** 
 * Our poster "On Utilizing Smartphone Time-of-Flight Sensors to Detect Hidden Spy Cameras" is accepted and will appear at [ACM SenSys'21](https://www.sigmobile.org/mobisys/2021/). This poster accompanies our full paper also presented at SenSys'21.
 * Our paper "LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors" is accepted and will appear at [ACM SenSys'21](https://www.sigmobile.org/mobisys/2021/).
