@@ -11,9 +11,9 @@ title                    : "Bangjie @ NUS"
 title_separator          : "-"
 name                     : &name "Bangjie Sun"
 description              : &description "A passionate researcher in computer vision, and sensing. Currently working with Prof. Jun Han in Yonsei University and Prof. Chan Mun Choon in National University of Singapore."
-url                      : https://sunbangjie.github.io/academic-pages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sunbangjie.github.io/personal-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SunBangjie/academic-pages"
+repository               : "SunBangjie/personal-website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
