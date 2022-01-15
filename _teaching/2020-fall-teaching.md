@@ -1,5 +1,5 @@
 ---
-title: "Graduate Tutor at National University of Singapore"
+title: "Graduate Tutor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
