@@ -8,4 +8,4 @@ venue: "Bachelor's Dissertation, National University of Singapore"
 paperurl: 
 citation: "Bangjie Sun. 2020. A Real-time Caustics and Global illumination Rendering Framework with RTX Technology. Bachelor's Dissertation, National University of Singapore."
 ---
-**Bangjie Sun.** 2020. *A Real-time Caustics and Global illumination Rendering Framework with RTX Technology.* Bachelor's Dissertation, National University of Singapore. \[[paper](https://sunbangjie.github.io/academic-pages/files/FYP.pdf)\]
+**Bangjie Sun.** 2020. *A Real-time Caustics and Global illumination Rendering Framework with RTX Technology.* Bachelor's Dissertation, National University of Singapore. \[[paper](https://sunbangjie.github.io/academic-pages/files/FYP.pdf)\] \[[repo](https://github.com/SunBangjie/FYP-BidirectionalPathTracer)\]

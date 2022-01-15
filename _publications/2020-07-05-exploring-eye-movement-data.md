@@ -8,4 +8,4 @@ venue: 'Journal of Visualization'
 paperurl: 
 citation: 'Burch, M., Veneri, A. & Sun, B. Exploring eye movement data with image-based clustering. J Vis 23, 677–694 (2020).'
 ---
-Burch, M., Veneri, A. & **Sun, B**. *Exploring eye movement data with image-based clustering.* **Journal of Visualization** 23, 677–694 (2020). \[[paper](https://sunbangjie.github.io/academic-pages/files/EyeMovement.pdf)\]
+Burch, M., Veneri, A. & **Sun, B**. *Exploring eye movement data with image-based clustering.* **Journal of Visualization** 23, 677–694 (2020). \[[paper](https://sunbangjie.github.io/academic-pages/files/EyeMovement.pdf)\] \[[repo](https://github.com/veneres/EyeCloud)\]
