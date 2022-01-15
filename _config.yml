@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "Bangjie Sun"
 description              : &description "A passionate researcher in computer vision, and sensing. Currently working with Prof. Jun Han in Yonsei University and Prof. Chan Mun Choon in National University of Singapore."
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SunBangjie"
+  github           : "SunBangjie"
   google_plus      :
   keybase          :
   instagram        :
