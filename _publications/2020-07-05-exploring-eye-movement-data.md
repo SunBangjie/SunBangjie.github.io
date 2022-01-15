@@ -6,5 +6,7 @@ excerpt: 'In this article, we describe a new feature for exploring eye movement 
 date: 2020-07-05
 venue: 'Journal of Visualization'
 paperurl: 'https://sunbangjie.github.io/academic-pages/files/Burch2020_Article_ExploringEyeMovementDataWithIm.pdf'
-citation: 'Burch, M., Veneri, A. & Sun, B. Exploring eye movement data with image-based clustering. J Vis 23, 677–694 (2020). https://doi-org.libproxy1.nus.edu.sg/10.1007/s12650-020-00656-9'
+citation: 'Burch, M., Veneri, A. & Sun, B. Exploring eye movement data with image-based clustering. J Vis 23, 677–694 (2020).'
 ---
+Burch, M., Veneri, A. & **Sun, B**. Exploring eye movement data with image-based clustering. J Vis 23, 677–694 (2020).
+[paper](https://sunbangjie.github.io/academic-pages/files/Burch2020_Article_ExploringEyeMovementDataWithIm.pdf)
