@@ -13,7 +13,7 @@ As the emergence of virtual reality (VR), we observe an increasing trend in VR g
 
 Our work is inspired by PC games such as L.A. Noire (Team Bondi 2011), Sherlock Holmes: Crimes & Punishments (Frogwares 2014), Danganronpa: Trigger Happy Havoc (Spike Chunsoft 2016), and Kona (Parabole 2017).
 
-[<img src="https://sunbangjie.github.io/personal-website/images/ByStanders/video_cover.png" width="200"/>](https://www.youtube.com/watch?v=4fnJeX9xLa0) [Click to view our short video]
+[<img src="https://sunbangjie.github.io/images/ByStanders/video_cover.png" width="200"/>](https://www.youtube.com/watch?v=4fnJeX9xLa0) [Click to view our short video]
 
 Highlights
 =====
@@ -23,12 +23,12 @@ Highlights
 
 We design our puzzles to incorporate subtle details in the game environment.
 
-<img src="https://sunbangjie.github.io/personal-website/images/ByStanders/highlight_1.png" width="800"/>
+<img src="https://sunbangjie.github.io/images/ByStanders/highlight_1.png" width="800"/>
 
 We focus on physics-based interactions to obtain both visual and verbal clues.
 
-<img src="https://sunbangjie.github.io/personal-website/images/ByStanders/highlight_2.png" width="800"/>
+<img src="https://sunbangjie.github.io/images/ByStanders/highlight_2.png" width="800"/>
 
 We also adopt puzzle-in-puzzle strategy.
 
-<img src="https://sunbangjie.github.io/personal-website/images/ByStanders/highlight_3.png" width="800"/>
+<img src="https://sunbangjie.github.io/images/ByStanders/highlight_3.png" width="800"/>
