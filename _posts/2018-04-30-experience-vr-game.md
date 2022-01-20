@@ -17,18 +17,18 @@ Our work is inspired by PC games such as L.A. Noire (Team Bondi 2011), Sherlock 
 
 Highlights
 =====
-* **Highly interactive** (physics engine + interactable items and characters)
-* **Immersive experience** (VR + detailed 3D models and textures)
-* **Freedom in puzzle-solving** (Non-linear storyline and clues)
+As a game prototype, we discover following key highlights empowered by both our game design and VR.
+* **Highly interactive** Empowered by physics engine (Unreal Engine 4 in our case), we develop thousands of interactable items and characters. The interactions between the player and game objects and characters stimulate the player's thinking and reasoning capabilities when acting as a detective.
+* **Immersive experience** The virtual reality nature of the game together detailed 3D models and textures provides extremely immersive experience for the player by simulating a realistic crime scene where every detail could reveal parts of the truth.
+* **Freedom in puzzle-solving** The storyline of the game is non-linear and the player is free to discover clues in any order. Discovering any clue becomes an enjoyable process.
 
-We design our puzzles to incorporate subtle details in the game environment.
-
+Examples of Puzzle Design
+====
+We provide several examples of our puzzles to illustrates the key points. First, we design our puzzles to incorporate subtle details in the game environment.
 <img src="https://sunbangjie.github.io/images/ByStanders/highlight_1.png" width="800"/>
 
-We focus on physics-based interactions to obtain both visual and verbal clues.
-
+Second, we focus on physics-based interactions to obtain both visual and verbal clues.
 <img src="https://sunbangjie.github.io/images/ByStanders/highlight_2.png" width="800"/>
 
-We also adopt puzzle-in-puzzle strategy.
-
+Third, we also adopt puzzle-in-puzzle strategy.
 <img src="https://sunbangjie.github.io/images/ByStanders/highlight_3.png" width="800"/>
