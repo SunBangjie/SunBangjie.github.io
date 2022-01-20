@@ -54,3 +54,7 @@ What's New?
 
 **[Aug 2016]**
 * I join National Univeristy of Singapore for my Bachelor's degree in Computer Science.
+
+
+<a href="https://devcard.link/IpxCUk"><img src="https://api.daily.dev/devcards/b614af1ebc344475b3babc8f6cc37c02.png?r=1u4" width="400" alt="Sun Bangjie's Dev Card"/></a>
+
