@@ -23,8 +23,14 @@ My research interests are in the intersection of **computer vision** and **sensi
 
 What's New?
 ======
+**[June 2022]**
+* Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" won the *Best Poster Award* at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). 
+
+**[May 2022]**
+* Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" is accepted and will appear at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). This poster accompanies our full paper also presented at MobiSys'22.
+
 **[Mar 2022]**
-* Our paper on detecting counterfeit liquid products is conditionally accepted at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/).
+* Our paper "Detecting counterfeit liquid food products in a sealed bottle using a smartphone camera" is accepted and will appear at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/).
 
 **[Nov 2021]**
 * Our paper is featured on several news/media including: [Forbes](https://www.forbes.com/sites/leemathews/2021/11/19/your-smartphone-may-soon-be-able-to-detect-hidden-spy-cameras/?sh=3e929f8470cf), [The Register](https://www.theregister.com/2021/11/18/smartphone_camera_detection/), [Y Combinator's Hacker News](https://news.ycombinator.com/item?id=29267168), [Techlog360](https://techlog360.com/detect-hidden-spy-cameras-using-smartphone/), [NewScientist](https://www.newscientist.com/article/2299052-smartphone-app-can-detect-hidden-camera-lenses-from-reflections/), [SPIEGEL](https://www.spiegel.de/netzwelt/netzpolitik/laser-assisted-photography-detection-lapd-smartphone-app-spuert-versteckte-spionagekameras-auf-a-8318b023-0fad-40a8-a210-1c041a14d0a1), [TechRadar](https://www.techradar.com/news/your-smartphone-could-help-track-spy-cameras), [Bitdefender](https://www.bitdefender.com/blog/hotforsecurity/boffins-say-they-can-spot-a-hidden-spy-cam-with-just-a-smartphone/) and others.
