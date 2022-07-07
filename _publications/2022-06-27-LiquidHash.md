@@ -8,7 +8,7 @@ venue: "MobiSys '22: Proceedings of the 20th Annual International Conference on 
 paperurl: 
 citation: "Bangjie Sun, Sean Rui Xiang Tan, Zhiwei Ren, Mun Choon Chan and Jun Han. 2022. Detecting Counterfeit Liquid Food Products in a Sealed Bottle Using a Smartphone Camera. In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’22), June 25–July 1, 2022, Portland, OR, USA. ACM, New York, NY, USA, 14 pages. https: //doi.org/10.1145/3498361.3539776"
 ---
-**Bangjie Sun**, Sean Rui Xiang Tan, Zhiwei Ren, Mun Choon Chan and Jun Han. 2022. Detecting Counterfeit Liquid Food Products in a Sealed Bottle Using a Smartphone Camera. In The 20th Annual International Conference on Mobile Systems, Applications and Services (**MobiSys ’22**), June 25–July 1, 2022, Portland, OR, USA. ACM, New York, NY, USA, 14 pages. *Acceptance Rate: 21.6% (38 of 176)* ***<span style="color:red">Best Poster Award</span>*** \[[paper](https://sunbangjie.github.io/files/LiquidHash.pdf)\] \[[project website](https://www.cyphy-lab.org/research/liquidhash)\]
+**Bangjie Sun**, Sean Rui Xiang Tan, Zhiwei Ren, Mun Choon Chan and Jun Han. 2022. Detecting Counterfeit Liquid Food Products in a Sealed Bottle Using a Smartphone Camera. In The 20th Annual International Conference on Mobile Systems, Applications and Services (**MobiSys ’22**), June 25–July 1, 2022, Portland, OR, USA. ACM, New York, NY, USA, 14 pages. *Acceptance Rate: 21.6% (38 of 176)*. ***<span style="color:red">Best Poster Award</span>*** \[[paper](https://sunbangjie.github.io/files/LiquidHash.pdf)\] \[[project website](https://www.cyphy-lab.org/research/liquidhash)\]
 
 
 Abstract
