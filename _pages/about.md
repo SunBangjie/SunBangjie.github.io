@@ -24,10 +24,11 @@ My research interests are in the intersection of **computer vision** and **sensi
 What's New?
 ======
 **[Apr 2024]**
-Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/).
+* Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/).
+* Our poster "Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/). This poster accompanies our full paper also presented at MobiSys'24.
 
 **[Sep 2023]**
-Our paper "Testing Masks and Air Filters With Your Smartphones" is accepted and will appear at [ACM SenSys'23](https://sensys.acm.org/2023/).
+* Our paper "Testing Masks and Air Filters With Your Smartphones" is accepted and will appear at [ACM SenSys'23](https://sensys.acm.org/2023/).
 
 **[June 2022]**
 * Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" won the *Best Poster Award* at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). 
