@@ -7,6 +7,11 @@ venue: "National University of Singapore, School of Computing"
 date: 2024-04-30
 location: "Singapore"
 ---
+Teaching assistant in the following undergraduate courses:
+* [CS1101S Programming Methodology](https://nusmods.com/courses/CS1101S/programming-methodology)
+* [CS2102 Database Systems](https://nusmods.com/courses/CS2102/database-systems)
+* [CS3203 Software Engineering Project](https://nusmods.com/modules/CS3203/software-engineering-project)
+
 Teaching assistant in [CS1101S Programming Methodology](https://nusmods.com/courses/CS1101S/programming-methodology) for two semesters.
 * AY2022-2023 Semester 1 (Aug 22 - Dec 22)
 * AY2023-2024 Semester 1 (Aug 23 - Dec 23)
