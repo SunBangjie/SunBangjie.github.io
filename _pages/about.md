@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-I am a passionate researcher in **computer vision**, and **sensing**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My supervisors are [Prof. Jun Han](https://www.junhan.org/home) in Yonsei University and [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in National University of Singapore. My research interests are in the intersection of computer vision and sensing systems.
+I am a passionate researcher in **computer vision**, and **sensing**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My supervisors are [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in National University of Singapore and [Prof. Jun Han](https://www.junhan.org/home) in KAIST. My research interests are in the intersection of computer vision and sensing systems.
 
 Research Interests
 ======
@@ -19,10 +19,16 @@ Research Interests
 - **Sensing and Mobile Systems**
 - **Cyber-Physical Systems (CPS) and CPS Security**
 
-My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, as well as empower average users with the ***enhanced reality*** (i.e., capability of extracting hidden information in daily objects and activities to make decisions, using only commercial off-the-shelf devices). Specifically, my research focuses on augmenting computer vision techniques with physics models and other sensing modalities to extract physical properties of daily objects and activities.
+My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, as well as empower average users with the ***enhanced reality*** (i.e., capability of briding physical and digital worlds for daily activities to aid decision making, using only commodity devices). Specifically, my research focuses on augmenting computer vision techniques with physics models and other sensing modalities to solve a wide range of practical and real-world problems, including but not limited to enhancing public safety, verifying product authenticity, and protecting individual privacy.
 
 What's New?
 ======
+**[Apr 2024]**
+Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/).
+
+**[Sep 2023]**
+Our paper "Testing Masks and Air Filters With Your Smartphones" is accepted and will appear at [ACM SenSys'23](https://sensys.acm.org/2023/).
+
 **[June 2022]**
 * Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" won the *Best Poster Award* at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). 
 
