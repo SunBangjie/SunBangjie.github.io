@@ -18,20 +18,31 @@ Research Interests
 - **Computer Vision**
 - **Sensing and Mobile Systems**
 - **Cyber-Physical Systems (CPS) and CPS Security**
+- **Knowledge-Driven AI**
 
-My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, as well as empower average users with the ***enhanced reality*** (i.e., capability of briding physical and digital worlds for daily activities to aid decision making, using only commodity devices). Specifically, my research focuses on augmenting computer vision techniques with physics models and other sensing modalities to solve a wide range of practical and real-world problems, including but not limited to enhancing public safety, verifying product authenticity, and protecting individual privacy.
+My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, as well as empower average users with the ***enhanced reality*** (i.e., capability of briding physical and digital worlds for daily activities to aid decision making, using only commodity devices). Specifically, my research focuses on augmenting computer vision techniques with physics models and other sensing modalities to solve a wide range of practical and real-world problems, including but not limited to enhancing public safety, verifying product authenticity, and protecting individual privacy. Additionally, my research encompasses knowledge-guided and physics-guided machine and deep learning, with a focus on integrating scientific knowledge to optimize models and transitioning from data-driven to knowledge-driven AI.
 
 What's New?
 ======
+**[Jul 2024]**
+* Our paper "Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image" is accepted and will appear at [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-nan).
+* <img src="(https://sunbangjie.github.io/images/Foice_Pre.jpeg" alt="I presented our work, Foice, at USENIX Security'24" width="500"/>
+
+**[Jun 2024]**
+* Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" won the *Best Paper Award* at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/accepted-papers.html).
+
 **[Apr 2024]**
 * Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/).
 * Our poster "Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone" is accepted and will appear at [ACM MobiSys'24](https://www.sigmobile.org/mobisys/2024/). This poster accompanies our full paper also presented at MobiSys'24.
 
 **[Sep 2023]**
 * Our paper "Testing Masks and Air Filters With Your Smartphones" is accepted and will appear at [ACM SenSys'23](https://sensys.acm.org/2023/).
+<img src="(https://sunbangjie.github.io/images/FilterOp_Pre.jpeg" alt="I presented our work, FilterOp, at SenSys'23" width="500"/>
 
-**[June 2022]**
-* Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" won the *Best Poster Award* at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). 
+**[Jun 2022]**
+* Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" won the *Best Poster Award* at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/).
+<img src="https://sunbangjie.github.io/images/LiquidHash_Pre.jpeg" alt="I presented our work, LiquidHash, at MobiSys'22" width="500"/>
+<img src="(https://sunbangjie.github.io/images/LiquidHash_Poster.jpeg" alt="Glad that we won the Best Poster Award" width="500"/>
 
 **[May 2022]**
 * Our poster "On utilising smartphone cameras to detect counterfeit liquid food products" is accepted and will appear at [ACM MobiSys'22](https://www.sigmobile.org/mobisys/2022/). This poster accompanies our full paper also presented at MobiSys'22.
@@ -49,7 +60,7 @@ What's New?
 **[Aug 2020]**
 * I join National University of Singapore as a graduate tutor and Ph.D. candidate in School of Computing, Department of Computer Science.
 
-**[July 2020]**
+**[Jul 2020]**
 * Our paper "Exploring Eye Movement Data with Image-Based Clustering" is published at [Journal of Visualization](https://www.springer.com/journal/12650). This work extends our previous paper presented at VINCI'2019.
 
 **[May 2020]**
