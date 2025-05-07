@@ -24,6 +24,9 @@ My research interests are in the intersection of **computer vision** and **sensi
 
 What's New?
 ======
+**[Apr 2025]**
+* Our paper "CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft" is accepted and will appear at [ACM MobiSys'25](https://www.sigmobile.org/mobisys/2025/).
+
 **[Jul 2024]**
 * Our paper "Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image" is accepted and will appear at [USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-nan).
 
