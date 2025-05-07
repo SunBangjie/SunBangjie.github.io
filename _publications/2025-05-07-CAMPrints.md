@@ -1,5 +1,5 @@
 ---
-title: "CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft"
+title: "CAMPrints: Leveraging the \"Fingerprints\" of Digital Cameras to Combat Image Theft"
 collection: publications
 permalink: /publication/2025-05-07-CAMPrints
 excerpt: 
