@@ -16,11 +16,12 @@ I am a passionate researcher in **computer vision**, and **sensing**. I am curre
 Research Interests
 ======
 - **Computer Vision**
-- **Sensing and Mobile Systems**
+- **Mobile Sensing Systems**
 - **Cyber-Physical Systems (CPS) and CPS Security**
 - **Knowledge-Driven AI**
 
-My research interests are in the intersection of **computer vision** and **sensing systems** to aid Cyber-Physical Systems (CPS) and security, as well as empower average users with the ***enhanced reality*** (i.e., capability of briding physical and digital worlds for daily activities to aid decision making, using only commodity devices). Specifically, my research focuses on augmenting computer vision techniques with physics models and other sensing modalities to solve a wide range of practical and real-world problems, including but not limited to enhancing public safety, verifying product authenticity, and protecting individual privacy. Additionally, my research encompasses knowledge-guided and physics-guided machine and deep learning, with a focus on integrating scientific knowledge to optimize models and transitioning from data-driven to knowledge-driven AI.
+My research interests are in the intersection of **computer vision** and **mobile sensing systems**, focusing on advancing Cyber-Physical Systems (CPS) and addressing associated security and privacy challenges. Specifically, my research focuses on leveraging commodity cameras as a bridge between the cyber and physical worlds to address a broad range of real-world challenges and deliver tangible social benefits. This encompasses, but is not limited to, health protection, verifying the authenticity of physical and digital content, and safeguarding against privacy leaks. Additionally, my research also encompasses knowledge-guided machine and deep learning, with a focus on integrating scientific knowledge (e.g., physics priciples) to optimize models and transitioning from data-driven to knowledge-driven AI.
+
 
 What's New?
 ======
