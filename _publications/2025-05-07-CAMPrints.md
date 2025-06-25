@@ -8,7 +8,7 @@ venue: "The 23rd ACM International Conference on Mobile Systems, Applications, a
 paperurl: 
 citation: "Bangjie Sun, Mun Choon Chan, and Jun Han. 2025. CAMPrints: Leveraging the “Fingerprints” of Digital Cameras to Combat Image Theft. In The 23rd Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’25), June 23–27, 2025, Anaheim, CA, USA. ACM, New York, NY, USA, 14 pages."
 ---
-Bangjie Sun, Mun Choon Chan, and Jun Han. 2025. CAMPrints: Leveraging the “Fingerprints” of Digital Cameras to Combat Image Theft. In The 23rd Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’25), June 23–27, 2025, Anaheim, CA, USA. ACM, New York, NY, USA, 14 pages. \[[paper][https://sunbangjie.github.io/files/CAMPrints.pdf]\]\[[poster][https://sunbangjie.github.io/files/CAMPrintsPoster.pdf]\]
+Bangjie Sun, Mun Choon Chan, and Jun Han. 2025. CAMPrints: Leveraging the “Fingerprints” of Digital Cameras to Combat Image Theft. In The 23rd Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’25), June 23–27, 2025, Anaheim, CA, USA. ACM, New York, NY, USA, 14 pages. \[[paper](https://sunbangjie.github.io/files/CAMPrints.pdf)\]\[[poster](https://sunbangjie.github.io/files/CAMPrintsPoster.pdf)\]
 
 
 Abstract
