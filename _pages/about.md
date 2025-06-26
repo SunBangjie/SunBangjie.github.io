@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-I am a passionate researcher in **computer vision**, and **sensing**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My supervisors are [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in National University of Singapore and [Prof. Jun Han](https://www.junhan.org/home) in KAIST. My research interests are in the intersection of computer vision and sensing systems.
+I am a passionate researcher in **computer vision** and **mobile sensing systems**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My advisors are [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in NUS and [Prof. Jun Han](https://www.junhan.org/home) in KAIST. *I am approaching graduation and actively seeking job opportunities.*
 
 Research Interests
 ======
@@ -22,9 +22,11 @@ Research Interests
 
 My research interests are in the intersection of **computer vision** and **mobile sensing systems**, focusing on advancing Cyber-Physical Systems (CPS) and addressing associated security and privacy challenges. Specifically, my research focuses on leveraging commodity cameras as a bridge between the cyber and physical worlds to address a broad range of real-world challenges and deliver tangible social benefits. This encompasses, but is not limited to, health protection, verifying the authenticity of physical and digital content, and safeguarding against privacy leaks. Additionally, my research also encompasses knowledge-guided machine and deep learning, with a focus on integrating scientific knowledge (e.g., physics priciples) to optimize models and transitioning from data-driven to knowledge-driven AI.
 
-
 What's New?
 ======
+**[Jun 2025]**
+* Our poster "CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft" won the *Best Poster Award* at [ACM MobiSys'25](https://www.sigmobile.org/mobisys/2025/). This poster accompanies our full paper also presented at MobiSys'25.
+
 **[Apr 2025]**
 * Our paper "CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft" is accepted and will appear at [ACM MobiSys'25](https://www.sigmobile.org/mobisys/2025/).
 
