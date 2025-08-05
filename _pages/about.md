@@ -11,19 +11,22 @@ redirect_from:
 About Me
 ======
 
-I am a passionate researcher in **computer vision** and **mobile sensing systems**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My advisors are [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in NUS and [Prof. Jun Han](https://www.junhan.org/home) in KAIST. *I am approaching graduation and actively seeking job opportunities.*
+I am a passionate researcher in **mobile sensing systems** and **computer vision**. I am currently pursuing my Ph.D. in National University of Singapore (NUS). My advisors are [Prof. Chan Mun Choon](https://www.comp.nus.edu.sg/~chanmc/) in NUS and [Prof. Jun Han](https://www.junhan.org/home) in KAIST. *I am approaching graduation and actively seeking job opportunities.*
 
 Research Interests
 ======
-- **Computer Vision**
 - **Mobile Sensing Systems**
 - **Cyber-Physical Systems (CPS) and CPS Security**
+- **Computer Vision**
 - **Knowledge-Driven AI**
 
-My research interests are in the intersection of **computer vision** and **mobile sensing systems**, focusing on advancing Cyber-Physical Systems (CPS) and addressing associated security and privacy challenges. Specifically, my research focuses on leveraging commodity cameras as a bridge between the cyber and physical worlds to address a broad range of real-world challenges and deliver tangible social benefits. This encompasses, but is not limited to, health protection, verifying the authenticity of physical and digital content, and safeguarding against privacy leaks. Additionally, my research also encompasses knowledge-guided machine and deep learning, with a focus on integrating scientific knowledge (e.g., physics priciples) to optimize models and transitioning from data-driven to knowledge-driven AI.
+My research interests are in the intersection of **mobile sensing systems** and **computer vision**, focusing on building reliable vision-based Cyber-Physical Systems (CPS) and addressing associated security and privacy challenges. Specifically, my research focuses on leveraging commodity cameras as a bridge between the cyber and physical worlds to address a broad range of real-world challenges and deliver tangible social benefits. This encompasses, but is not limited to, physical product authentication, digital content owner attribution, and discovering vulnerabilities in CPS. Additionally, my research also encompasses knowledge-guided machine and deep learning, with a focus on integrating scientific knowledge (e.g., physics priciples) to optimize models and transitioning from data-driven to knowledge-driven AI.
 
 What's New?
 ======
+**[Aug 2025]**
+* I receive the NUS SOC Dean's Graduate Research Excellence Award. It’s a pleasure to share a short introduction to my research with the new PhD cohort at NUS SOC. \[[slides](https://sunbangjie.github.io/files/ResearchOverview.pdf)\]
+
 **[Jun 2025]**
 * Our poster "CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft" won the *Best Poster Award* at [ACM MobiSys'25](https://www.sigmobile.org/mobisys/2025/). This poster accompanies our full paper also presented at MobiSys'25.
 
